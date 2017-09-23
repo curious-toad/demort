@@ -1,0 +1,66 @@
+/*Typography*/
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.25rem;
+	color: #000000;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.75em;
+	margin-bottom: 0.5em;
+}
+
+h1, h3 {
+	font-family: 'americanamedium', Arial, Helvetica, sans-serif;
+	text-transform: uppercase;	
+}
+
+p, span {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+	color: #e4871c;
+	text-decoration: none;
+	
+}
+/*Structure*/
+
+#container {
+	max-width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#footer {
+	display: block;
+	font-size: 10px;
+	margin-top: 30px;
+}
+
+/*Content*/
+
+#logo {
+	text-align: center;
+	/*max-width: 30%;*/
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#hero {
+	text-align: center;
+	max-width: 100%;
+	height: auto;
+	margin: 30px 10px;
+}
+
+/* MailChimp form*/
