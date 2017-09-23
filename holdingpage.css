@@ -13,6 +13,7 @@ h1, h3 {
 
 h1 {
 	font-size: 3em;
+	line-height: 3.75em;
 }
 
 h3 {
@@ -75,3 +76,10 @@ a {
 	margin-bottom: 1.25em;
 }
 
+.button {
+	background-color: #e4871c;
+	color: #ffffff;
+	font-family: 'americanamedium', Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	text-transform: uppercase;
+}
