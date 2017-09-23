@@ -13,12 +13,12 @@ h1, h3 {
 
 h1 {
 	font-size: 3em;
-	line-height: 3.75em;
+	line-height: 1.75em;
 }
 
 h3 {
 	font-size: 2em;
-	margin-bottom: 1.5em;
+	margin-bottom: 0.75em;
 }
 
 p, span {
@@ -80,6 +80,6 @@ a {
 	background-color: #e4871c;
 	color: #ffffff;
 	font-family: 'americanamedium', Arial, Helvetica, sans-serif;
-	font-size: 1em;
+	font-size: 1.75em;
 	text-transform: uppercase;
 }
