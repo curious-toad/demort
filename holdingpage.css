@@ -109,6 +109,9 @@ a {
 	body {
 		font-size: 1.75rem;
 	}
+	.hero {
+		max-width: 70%;
+	}
 }
 
 /* Larger than desktop */
@@ -119,5 +122,8 @@ a {
 	}
 	body {
 		font-size: 1.75rem;
+	}
+	.hero {
+		max-width: 70%;
 	}
 }
